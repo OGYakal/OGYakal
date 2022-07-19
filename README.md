@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OGYakal
+- 👋 Hi, I’m Jason
 - 👀 I’m interested in Environmental Sciences and Meteorology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Environmental policy making
